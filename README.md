@@ -1,4 +1,4 @@
-# word-cloud-example
+# Word Cloud Example
 
 Example script(s) to produce a word cloud from a text file. 
 
